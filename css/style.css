@@ -112,6 +112,16 @@ body {
   right: -780px;
   z-index: -1;
 }
+@media (min-width: 1000px) {
+  .card::after {
+    top: -435px;
+    left: -24px;
+  }
+  .card::before {
+    bottom: -580px;
+    right: 40px;
+  }
+}
 .user__thumb {
   width: 96px;
   height: 96px;

@@ -31,8 +31,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/sledua/fm-profile-card-component-main)
+- Live Site URL: [Live site Profile card component](https://calm-malabi-d05449.netlify.app/)
 
 ## My process
 
@@ -41,12 +41,12 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - Semantic HTML5 markup
 - CSS custom properties
 - CSS Grid
-- Mobile-first workflow
+- !Mobile-first workflow
 
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+I improved my layout skills, and the mobile version is the main one. I used only the necessary tags from HTML5 and checked my work thoroughly with a validator. (Thanks to the community for commenting on my pages, I listen to you) There could be a lot of watered-down explanations that only I need, so I write comments in the code.  
 
 
 
@@ -57,15 +57,12 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [sledua](https://github.com/sledua)
+- Frontend Mentor - [@sledua](https://www.frontendmentor.io/profile/sledua)
+- Twitter - [@ua_sled](https://twitter.com/ua_sled)
 
 
 ## Acknowledgments
